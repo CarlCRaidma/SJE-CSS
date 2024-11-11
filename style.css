@@ -19,12 +19,13 @@ h1 {
 
 }
 
-#list{
-    text-align: center;
-}
-
 ul {
     display:inline-block
+    
+}
+
+#miksneedlistipunktideraldikujundustvajavadminetekstigakokkudamn {
+    text-align:center;
 }
 
 #catpic {
@@ -43,4 +44,18 @@ table, tr, th, td, br {
 }
 
 #link {text-align:center;
+}
+
+.grid-asi {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.vasak {
+    padding:20px;
+}
+
+.parem {
+    padding:20px;
 }
