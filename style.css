@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color:orange;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family:Arial
+}
+
+#para1, h2, br, li {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+    font-family: "Times New Roman";
+
+}
+
+#list{
+    text-align: center;
+}
+
+ul {
+    display:inline-block
+}
+
+#catpic {
+    border: 10px solid brown;
+}
+
+table, tr, th, td, br {
+    border:1px solid white;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+#link {text-align:center;
+}
